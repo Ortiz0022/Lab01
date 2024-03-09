@@ -1,0 +1,4 @@
+C:\Users\Angélica\Documents\PROGRA II\LaboratorioI\obj\Debug\net7.0\LaboratorioI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angélica\Documents\PROGRA II\LaboratorioI\obj\Debug\net7.0\LaboratorioI.AssemblyInfoInputs.cache
+C:\Users\Angélica\Documents\PROGRA II\LaboratorioI\obj\Debug\net7.0\LaboratorioI.AssemblyInfo.cs
+C:\Users\Angélica\Documents\PROGRA II\LaboratorioI\obj\Debug\net7.0\LaboratorioI.csproj.CoreCompileInputs.cache
